@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Research & Development head at ACM student chapter of MPSTME and a tech executive at IEEE (MPSTME)
+- 🔭 I’m currently working as a Research & Development head at ACM student chapter of MPSTME and a Co-Lead of AI/ML at GDSC, MPSTME
 - 🌱 I’m currently learning Python for Data Science and DSA
-- 👀 I’m interested in AI/ML, Augmented Reality, App Developement
+- 👀 I’m interested in Research in fields of AIML, Computer vision, Augmented Reality
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saumya-pailwan-228a9b212/)
 - 😄 Pronouns: She/her
 
